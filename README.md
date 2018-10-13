@@ -1,3 +1,2 @@
-# MapOnFood
-
-This is about the food aplication
+# Soundtoy
+An app that makes a wonderful sound
